@@ -6,7 +6,7 @@
 	},
 	"repositories": [{
 		"repository": {
-			"uid": "f87191bfe589aba511e151e7ab21f52a",
+			"uid": "03506587d861b216312ab9058c725c69",
 			"projectName": "RJ_PHPUnit_PHP_HTMLReport",
 			"sources": {
 				"baseDir": "$WORKSPACE"
